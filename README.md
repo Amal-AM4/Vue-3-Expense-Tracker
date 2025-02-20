@@ -26,13 +26,11 @@ npm install
 
 ### **2️⃣ Compile & Start Development Server**  
 ```md
-```sh
 npm run dev
 ```
 
 ### **3️⃣ Compile & Minify for Production**  
 ```md
-```sh
 npm run build
 ```
 
