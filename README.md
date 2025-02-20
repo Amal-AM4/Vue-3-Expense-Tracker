@@ -18,17 +18,20 @@ An **Expense Tracker App** built with **Vue 3** and the **Composition API**. Eas
 ## 📦 Project Setup
 
 ### **1️⃣ Install dependencies**  
-\`\`\`sh
+```md
+```sh
+# Install dependencies
 npm install
-\`\`\`
 
 ### **2️⃣ Compile & Start Development Server**  
-\`\`\`sh
+```md
+```sh
 npm run dev
 \`\`\`
 
 ### **3️⃣ Compile & Minify for Production**  
-\`\`\`sh
+```md
+```sh
 npm run build
 \`\`\`
 
