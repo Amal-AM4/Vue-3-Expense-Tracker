@@ -22,18 +22,19 @@ An **Expense Tracker App** built with **Vue 3** and the **Composition API**. Eas
 ```sh
 # Install dependencies
 npm install
+```
 
 ### **2️⃣ Compile & Start Development Server**  
 ```md
 ```sh
 npm run dev
-\`\`\`
+```
 
 ### **3️⃣ Compile & Minify for Production**  
 ```md
 ```sh
 npm run build
-\`\`\`
+```
 
 ## 📜 License
 This project is licensed under the **MIT License**.  
